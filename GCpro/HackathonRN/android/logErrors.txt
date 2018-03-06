@@ -1,0 +1,17 @@
+C:\Users\liu\Desktop\Hackathon2016Wuhan\HackathonRN\android\app\src\main\AndroidManifest.xml:17:9-19:43 Error:
+	Attribute meta-data#WB_APPID@value at AndroidManifest.xml:17:9-19:43 requires a placeholder substitution but no value for <WB_APPID> is provided.
+C:\Users\liu\Desktop\Hackathon2016Wuhan\HackathonRN\android\app\src\main\AndroidManifest.xml:18:9-20:43 Error:
+	Attribute meta-data#WX_APPID@value at AndroidManifest.xml:18:9-20:43 requires a placeholder substitution but no value for <WX_APPID> is provided.
+C:\Users\liu\Desktop\Hackathon2016Wuhan\HackathonRN\android\app\src\main\AndroidManifest.xml:15:9-17:43 Error:
+	Attribute meta-data#QQ_APPID@value at AndroidManifest.xml:15:9-17:43 requires a placeholder substitution but no value for <QQ_APPID> is provided.
+C:\Users\liu\Desktop\Hackathon2016Wuhan\HackathonRN\android\app\src\main\AndroidManifest.xml Error:
+	Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for <QQ_APPID> is provided.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:processDebugManifest'.
+> Manifest merger failed with multiple errors, see logs
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.

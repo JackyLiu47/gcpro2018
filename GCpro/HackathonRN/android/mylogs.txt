@@ -1,0 +1,321 @@
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+Incremental java compilation is an incubating feature.
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\liu\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:app:prepareComAndroidSupportAnimatedVectorDrawable2500Library
+:app:prepareComAndroidSupportAppcompatV72500Library
+:app:prepareComAndroidSupportRecyclerviewV72301Library
+:app:prepareComAndroidSupportSupportCompat2500Library
+:app:prepareComAndroidSupportSupportCoreUi2500Library
+:app:prepareComAndroidSupportSupportCoreUtils2500Library
+:app:prepareComAndroidSupportSupportFragment2500Library
+:app:prepareComAndroidSupportSupportMediaCompat2500Library
+:app:prepareComAndroidSupportSupportV42500Library
+:app:prepareComAndroidSupportSupportVectorDrawable2500Library
+:app:prepareComFacebookFrescoDrawee0110Library
+:app:prepareComFacebookFrescoFbcore0110Library
+:app:prepareComFacebookFrescoFresco0110Library
+:app:prepareComFacebookFrescoImagepipeline0110Library
+:app:prepareComFacebookFrescoImagepipelineBase0110Library
+:app:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:app:prepareComFacebookReactReactNative0331Library
+:app:prepareComFacebookSoloaderSoloader010Library
+:app:prepareComGithubYbqAndroidSpinKit110Library
+:app:prepareOrgWebkitAndroidJscR174650Library
+:react-native-image-picker:preBuild UP-TO-DATE
+:react-native-image-picker:preReleaseBuild UP-TO-DATE
+:react-native-image-picker:checkReleaseManifest
+:react-native-image-picker:preDebugAndroidTestBuild UP-TO-DATE
+:react-native-image-picker:preDebugBuild UP-TO-DATE
+:react-native-image-picker:preDebugUnitTestBuild UP-TO-DATE
+:react-native-image-picker:preReleaseUnitTestBuild UP-TO-DATE
+:react-native-image-picker:prepareComAndroidSupportAppcompatV72301Library
+:react-native-image-picker:prepareComAndroidSupportRecyclerviewV72301Library
+:react-native-image-picker:prepareComAndroidSupportSupportV42321Library
+:react-native-image-picker:prepareComFacebookFrescoDrawee0110Library
+:react-native-image-picker:prepareComFacebookFrescoFbcore0110Library
+:react-native-image-picker:prepareComFacebookFrescoFresco0110Library
+:react-native-image-picker:prepareComFacebookFrescoImagepipeline0110Library
+:react-native-image-picker:prepareComFacebookFrescoImagepipelineBase0110Library
+:react-native-image-picker:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:react-native-image-picker:prepareComFacebookReactReactNative0331Library
+:react-native-image-picker:prepareComFacebookSoloaderSoloader010Library
+:react-native-image-picker:prepareOrgWebkitAndroidJscR174650Library
+:react-native-image-picker:prepareReleaseDependencies
+:react-native-image-picker:compileReleaseAidl
+:react-native-image-picker:compileReleaseNdk UP-TO-DATE
+:react-native-image-picker:compileLint
+:react-native-image-picker:copyReleaseLint UP-TO-DATE
+:react-native-image-picker:compileReleaseRenderscript
+:react-native-image-picker:generateReleaseBuildConfig UP-TO-DATE
+:react-native-image-picker:generateReleaseResValues
+:react-native-image-picker:generateReleaseResources
+:react-native-image-picker:mergeReleaseResources UP-TO-DATE
+:react-native-image-picker:processReleaseManifest
+:react-native-image-picker:processReleaseResources UP-TO-DATE
+:react-native-image-picker:generateReleaseSources
+:react-native-image-picker:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:react-native-image-picker:javaPreCompileRelease
+:react-native-image-picker:compileReleaseJavaWithJavac UP-TO-DATE
+:react-native-image-picker:extractReleaseAnnotations UP-TO-DATE
+:react-native-image-picker:mergeReleaseShaders
+:react-native-image-picker:compileReleaseShaders
+:react-native-image-picker:generateReleaseAssets
+:react-native-image-picker:mergeReleaseAssets
+:react-native-image-picker:mergeReleaseProguardFiles
+:react-native-image-picker:packageReleaseRenderscript UP-TO-DATE
+:react-native-image-picker:packageReleaseResources
+:react-native-image-picker:processReleaseJavaRes UP-TO-DATE
+:react-native-image-picker:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-image-picker:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-image-picker:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-image-picker:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-image-picker:transformNativeLibsWithSyncJniLibsForRelease
+:react-native-image-picker:bundleRelease UP-TO-DATE
+:react-native-qq:preBuild UP-TO-DATE
+:react-native-qq:preReleaseBuild UP-TO-DATE
+:react-native-qq:checkReleaseManifest
+:react-native-qq:preDebugAndroidTestBuild UP-TO-DATE
+:react-native-qq:preDebugBuild UP-TO-DATE
+:react-native-qq:preDebugUnitTestBuild UP-TO-DATE
+:react-native-qq:preReleaseUnitTestBuild UP-TO-DATE
+:react-native-qq:prepareComAndroidSupportAppcompatV72301Library
+:react-native-qq:prepareComAndroidSupportRecyclerviewV72301Library
+:react-native-qq:prepareComAndroidSupportSupportV42321Library
+:react-native-qq:prepareComFacebookFrescoDrawee0110Library
+:react-native-qq:prepareComFacebookFrescoFbcore0110Library
+:react-native-qq:prepareComFacebookFrescoFresco0110Library
+:react-native-qq:prepareComFacebookFrescoImagepipeline0110Library
+:react-native-qq:prepareComFacebookFrescoImagepipelineBase0110Library
+:react-native-qq:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:react-native-qq:prepareComFacebookReactReactNative0331Library
+:react-native-qq:prepareComFacebookSoloaderSoloader010Library
+:react-native-qq:prepareOrgWebkitAndroidJscR174650Library
+:react-native-qq:prepareReleaseDependencies
+:react-native-qq:compileReleaseAidl
+:react-native-qq:compileReleaseNdk UP-TO-DATE
+:react-native-qq:compileLint
+:react-native-qq:copyReleaseLint UP-TO-DATE
+:react-native-qq:compileReleaseRenderscript
+:react-native-qq:generateReleaseBuildConfig UP-TO-DATE
+:react-native-qq:generateReleaseResValues
+:react-native-qq:generateReleaseResources
+:react-native-qq:mergeReleaseResources UP-TO-DATE
+:react-native-qq:processReleaseManifest
+:react-native-qq:processReleaseResources UP-TO-DATE
+:react-native-qq:generateReleaseSources
+:react-native-qq:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:react-native-qq:javaPreCompileRelease
+:react-native-qq:compileReleaseJavaWithJavac UP-TO-DATE
+:react-native-qq:extractReleaseAnnotations UP-TO-DATE
+:react-native-qq:mergeReleaseShaders
+:react-native-qq:compileReleaseShaders
+:react-native-qq:generateReleaseAssets
+:react-native-qq:mergeReleaseAssets
+:react-native-qq:mergeReleaseProguardFiles
+:react-native-qq:packageReleaseRenderscript UP-TO-DATE
+:react-native-qq:packageReleaseResources
+:react-native-qq:processReleaseJavaRes UP-TO-DATE
+:react-native-qq:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-qq:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-qq:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-qq:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-qq:transformNativeLibsWithSyncJniLibsForRelease
+:react-native-qq:bundleRelease UP-TO-DATE
+:react-native-spinkit:preBuild UP-TO-DATE
+:react-native-spinkit:preReleaseBuild UP-TO-DATE
+:react-native-spinkit:checkReleaseManifest
+:react-native-spinkit:preDebugAndroidTestBuild UP-TO-DATE
+:react-native-spinkit:preDebugBuild UP-TO-DATE
+:react-native-spinkit:preDebugUnitTestBuild UP-TO-DATE
+:react-native-spinkit:preReleaseUnitTestBuild UP-TO-DATE
+:react-native-spinkit:prepareComAndroidSupportAppcompatV72301Library
+:react-native-spinkit:prepareComAndroidSupportRecyclerviewV72301Library
+:react-native-spinkit:prepareComAndroidSupportSupportV42321Library
+:react-native-spinkit:prepareComFacebookFrescoDrawee0110Library
+:react-native-spinkit:prepareComFacebookFrescoFbcore0110Library
+:react-native-spinkit:prepareComFacebookFrescoFresco0110Library
+:react-native-spinkit:prepareComFacebookFrescoImagepipeline0110Library
+:react-native-spinkit:prepareComFacebookFrescoImagepipelineBase0110Library
+:react-native-spinkit:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:react-native-spinkit:prepareComFacebookReactReactNative0331Library
+:react-native-spinkit:prepareComFacebookSoloaderSoloader010Library
+:react-native-spinkit:prepareComGithubYbqAndroidSpinKit110Library
+:react-native-spinkit:prepareOrgWebkitAndroidJscR174650Library
+:react-native-spinkit:prepareReleaseDependencies
+:react-native-spinkit:compileReleaseAidl
+:react-native-spinkit:compileReleaseNdk UP-TO-DATE
+:react-native-spinkit:compileLint
+:react-native-spinkit:copyReleaseLint UP-TO-DATE
+:react-native-spinkit:compileReleaseRenderscript
+:react-native-spinkit:generateReleaseBuildConfig UP-TO-DATE
+:react-native-spinkit:generateReleaseResValues
+:react-native-spinkit:generateReleaseResources
+:react-native-spinkit:mergeReleaseResources UP-TO-DATE
+:react-native-spinkit:processReleaseManifest
+:react-native-spinkit:processReleaseResources UP-TO-DATE
+:react-native-spinkit:generateReleaseSources
+:react-native-spinkit:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:react-native-spinkit:javaPreCompileRelease
+:react-native-spinkit:compileReleaseJavaWithJavac UP-TO-DATE
+:react-native-spinkit:extractReleaseAnnotations UP-TO-DATE
+:react-native-spinkit:mergeReleaseShaders
+:react-native-spinkit:compileReleaseShaders
+:react-native-spinkit:generateReleaseAssets
+:react-native-spinkit:mergeReleaseAssets
+:react-native-spinkit:mergeReleaseProguardFiles
+:react-native-spinkit:packageReleaseRenderscript UP-TO-DATE
+:react-native-spinkit:packageReleaseResources
+:react-native-spinkit:processReleaseJavaRes UP-TO-DATE
+:react-native-spinkit:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-spinkit:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-spinkit:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-spinkit:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-spinkit:transformNativeLibsWithSyncJniLibsForRelease
+:react-native-spinkit:bundleRelease UP-TO-DATE
+:react-native-weibo:preBuild UP-TO-DATE
+:react-native-weibo:preReleaseBuild UP-TO-DATE
+:react-native-weibo:checkReleaseManifest
+:react-native-weibo:preDebugAndroidTestBuild UP-TO-DATE
+:react-native-weibo:preDebugBuild UP-TO-DATE
+:react-native-weibo:preDebugUnitTestBuild UP-TO-DATE
+:react-native-weibo:preReleaseUnitTestBuild UP-TO-DATE
+:react-native-weibo:prepareComAndroidSupportAppcompatV72301Library
+:react-native-weibo:prepareComAndroidSupportRecyclerviewV72301Library
+:react-native-weibo:prepareComAndroidSupportSupportV42321Library
+:react-native-weibo:prepareComFacebookFrescoDrawee0110Library
+:react-native-weibo:prepareComFacebookFrescoFbcore0110Library
+:react-native-weibo:prepareComFacebookFrescoFresco0110Library
+:react-native-weibo:prepareComFacebookFrescoImagepipeline0110Library
+:react-native-weibo:prepareComFacebookFrescoImagepipelineBase0110Library
+:react-native-weibo:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:react-native-weibo:prepareComFacebookReactReactNative0331Library
+:react-native-weibo:prepareComFacebookSoloaderSoloader010Library
+:react-native-weibo:prepareOrgWebkitAndroidJscR174650Library
+:react-native-weibo:prepareReleaseDependencies
+:react-native-weibo:compileReleaseAidl
+:react-native-weibo:compileReleaseNdk UP-TO-DATE
+:react-native-weibo:compileLint
+:react-native-weibo:copyReleaseLint UP-TO-DATE
+:react-native-weibo:compileReleaseRenderscript
+:react-native-weibo:generateReleaseBuildConfig UP-TO-DATE
+:react-native-weibo:generateReleaseResValues
+:react-native-weibo:generateReleaseResources
+:react-native-weibo:mergeReleaseResources UP-TO-DATE
+:react-native-weibo:processReleaseManifest
+:react-native-weibo:processReleaseResources UP-TO-DATE
+:react-native-weibo:generateReleaseSources
+:react-native-weibo:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:react-native-weibo:javaPreCompileRelease
+:react-native-weibo:compileReleaseJavaWithJavac UP-TO-DATE
+:react-native-weibo:extractReleaseAnnotations UP-TO-DATE
+:react-native-weibo:mergeReleaseShaders
+:react-native-weibo:compileReleaseShaders
+:react-native-weibo:generateReleaseAssets
+:react-native-weibo:mergeReleaseAssets
+:react-native-weibo:mergeReleaseProguardFiles
+:react-native-weibo:packageReleaseRenderscript UP-TO-DATE
+:react-native-weibo:packageReleaseResources
+:react-native-weibo:processReleaseJavaRes UP-TO-DATE
+:react-native-weibo:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-weibo:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-weibo:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-weibo:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-weibo:transformNativeLibsWithSyncJniLibsForRelease
+:react-native-weibo:bundleRelease
+:react-native-wx:preBuild UP-TO-DATE
+:react-native-wx:preReleaseBuild UP-TO-DATE
+:react-native-wx:checkReleaseManifest
+:react-native-wx:preDebugAndroidTestBuild UP-TO-DATE
+:react-native-wx:preDebugBuild UP-TO-DATE
+:react-native-wx:preDebugUnitTestBuild UP-TO-DATE
+:react-native-wx:preReleaseUnitTestBuild UP-TO-DATE
+:react-native-wx:prepareComAndroidSupportAppcompatV72301Library
+:react-native-wx:prepareComAndroidSupportRecyclerviewV72301Library
+:react-native-wx:prepareComAndroidSupportSupportV42321Library
+:react-native-wx:prepareComFacebookFrescoDrawee0110Library
+:react-native-wx:prepareComFacebookFrescoFbcore0110Library
+:react-native-wx:prepareComFacebookFrescoFresco0110Library
+:react-native-wx:prepareComFacebookFrescoImagepipeline0110Library
+:react-native-wx:prepareComFacebookFrescoImagepipelineBase0110Library
+:react-native-wx:prepareComFacebookFrescoImagepipelineOkhttp30110Library
+:react-native-wx:prepareComFacebookReactReactNative0331Library
+:react-native-wx:prepareComFacebookSoloaderSoloader010Library
+:react-native-wx:prepareOrgWebkitAndroidJscR174650Library
+:react-native-wx:prepareReleaseDependencies
+:react-native-wx:compileReleaseAidl
+:react-native-wx:compileReleaseNdk UP-TO-DATE
+:react-native-wx:compileLint
+:react-native-wx:copyReleaseLint UP-TO-DATE
+:react-native-wx:compileReleaseRenderscript
+:react-native-wx:generateReleaseBuildConfig UP-TO-DATE
+:react-native-wx:generateReleaseResValues
+:react-native-wx:generateReleaseResources
+:react-native-wx:mergeReleaseResources UP-TO-DATE
+:react-native-wx:processReleaseManifest
+:react-native-wx:processReleaseResources UP-TO-DATE
+:react-native-wx:generateReleaseSources
+:react-native-wx:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:react-native-wx:javaPreCompileRelease
+:react-native-wx:compileReleaseJavaWithJavac UP-TO-DATE
+:react-native-wx:extractReleaseAnnotations UP-TO-DATE
+:react-native-wx:mergeReleaseShaders
+:react-native-wx:compileReleaseShaders
+:react-native-wx:generateReleaseAssets
+:react-native-wx:mergeReleaseAssets
+:react-native-wx:mergeReleaseProguardFiles
+:react-native-wx:packageReleaseRenderscript UP-TO-DATE
+:react-native-wx:packageReleaseResources
+:react-native-wx:processReleaseJavaRes UP-TO-DATE
+:react-native-wx:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-wx:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-wx:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-wx:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-wx:transformNativeLibsWithSyncJniLibsForRelease
+:react-native-wx:bundleRelease UP-TO-DATE
+:app:prepareDebugDependencies
+:app:compileDebugAidl
+:app:compileDebugRenderscript
+:app:generateDebugBuildConfig
+:app:mergeDebugShaders
+:app:compileDebugShaders
+:app:generateDebugAssets
+:app:mergeDebugAssets
+:app:generateDebugResValues
+:app:generateDebugResources
+:app:mergeDebugResources
+:app:bundleDebugJsAndAssets SKIPPED
+:app:processDebugManifest
+
+See http://g.co/androidstudio/manifest-merger for more information about the manifest merger.
+
+:app:processDebugManifest FAILED
+
+BUILD FAILED
+
+Total time: 13.136 secs
